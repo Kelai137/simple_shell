@@ -1,5 +1,5 @@
 "manpage for Simple_shell. Simple shell project to ALX School.
-.TH man 1 "8 Feb 2023" "Simple Shell"                    "12 Feb 2023" "1.0"                                              "simple_shell man page"
+.TH man 1 "8 Feb 2023" "Simple Shell" "12 Feb 2023" "1.0" "simple_shell man page"
 SH NAME
 ALX Simple Shell
 - A simple UNIX command line interpreter.
@@ -20,9 +20,9 @@ The shell reads commands from the terminal and executes them.
 is invoked by the command:
 .br
 .\&$ ./hsh
-        A prompt will appear for the user to enter and execute commands by typing comma
-        nd names and pressing the return key. A user can also pipe commands into the pr
-        ogram via the pipe character '|'.
+ A prompt will appear for the user to enter and execute commands by typing comma
+ nd names and pressing the return key. A user can also pipe commands into the pr
+ ogram via the pipe character '|'.
 For example:
 .br
 \&$ echo "hello world" | ./hsh
@@ -55,4 +55,4 @@ is based on the Thompson Shell program written by Ken Thompson.
 Only one error message will print upon failure. If any further bugs are found please contact the authors.
 
 .SH AUTHORS
-written by Rohisha R with contrubiton by Huckiel S.
+written by Moses S. with contrubiton by Samuel J.
