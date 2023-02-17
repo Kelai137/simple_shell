@@ -30,7 +30,7 @@ For example:
 .I To install:
 .br
 
-.B git clone https://github.com/yeshan111/simple_shell.git
+.B git clone https://github.com/kelai/137/simple_shell.git
 br
 
 .I Compile files using:
